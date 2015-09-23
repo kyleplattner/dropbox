@@ -168,6 +168,7 @@
 		CD9029BA1A8195DD005FCD44 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Kyungmin Kim";
 				TargetAttributes = {
